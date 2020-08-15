@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T12:38:32.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="50G2xNy0BJb1mJTtrPRn" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-15T03:02:48.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="2p_UlN7XrAUpyNBabMeH" version="13.6.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="380" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,7 +387,7 @@
             <mxPoint x="800" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zAETe-kaXZAgj4HdxsVo-320" value="docker create &amp;lt;image&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="zAETe-kaXZAgj4HdxsVo-320" value="docker run &amp;lt;image&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="610" width="132.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zAETe-kaXZAgj4HdxsVo-321" value="&lt;font color=&quot;#ff0000&quot;&gt;STOPPED&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
